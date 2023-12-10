@@ -1,5 +1,5 @@
 const Home = () => {
-    return <h1>Tela home</h1>
+    return <h1>Teste 12345</h1>
 }
 
 
